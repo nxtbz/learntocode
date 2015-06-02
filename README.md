@@ -10,6 +10,7 @@ Codeacademy
 - [ ] Javascript
 - [ ] JQuery
 - [ ] API's
+- [ ] HTML/CSS
 
 Code School
 - [ ] Ruby Bits
@@ -33,6 +34,7 @@ Braintrainers
 - [ ] Codewars
 
 Other
+- [ ] W3 schools
 - [ ] One Month Rails
 - [ ] Learn Ruby The Hard Way
 - [ ] The Odin Project 
