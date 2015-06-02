@@ -1,5 +1,6 @@
 #Programming Manifesto
 
+
 ##Books
 Ruby
 - [ ] Learn to Program by Chris Pine
@@ -34,6 +35,7 @@ Code School
 Other
 - [ ] One Month Rails
 - [ ] RubyKoans
+- [ ] RubyMonk
 - [ ] Learn Ruby The Hard Way
 
 ##Projects
@@ -48,6 +50,7 @@ Other
 - [ ] Office work out competition app
 - [ ] Invoice app
 - [ ] Multi-tenant site 
+- [ ] The odin project ()
 
 APIs
 - [ ] Braintree [www.juicetilt.herokuapp.com](http://juicetilt.herokuapp.com)
@@ -63,6 +66,6 @@ APIs
 - [ ] Github
 - [ ] SendGrid
 
-
  
-
+## credits 
+this awesome list comes from https://github.com/gxespino 
