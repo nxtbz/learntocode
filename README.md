@@ -91,6 +91,10 @@ Community's
 - [x] Sublime | Atom | vim can't really choose. 
 
 
+stuff to explore later
+- [ ] [http://www.browsersync.io](http://www.browsersync.io)
+- [ ] Node.js by [stackskills.com](http://stackskills.com/courses/learn-nodejs-by-building-10-projects/) 
+
  
 ## credits 
 The base of this awesome list was provided by  https://github.com/gxespino 
