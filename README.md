@@ -91,6 +91,7 @@ Other
 - [ ] BrowserSync development [http://www.browsersync.io](http://www.browsersync.io)
 - [ ] Node.js by [stackskills.com](http://stackskills.com/courses/learn-nodejs-by-building-10-projects/) 
 - [ ] IOS development 
+- [ ] Git tower
 
 
 ##Projects
