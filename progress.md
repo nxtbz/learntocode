@@ -19,6 +19,7 @@ Rails
 
  
 ##Online
+
 Codeacademy
 - [ ] Ruby
 - [ ] Javascript
@@ -32,25 +33,35 @@ Code School
 - [ ] Testing with RSpec
 - [ ] Git
 
+Stuk
+- [ ] Fundamentals
+- [ ] 2 Sided marketplace 
+- [ ] Social network 
+- [ ] Directory website
+- [ ] Dating app
+
 Other
 - [ ] One Month Rails
 - [ ] RubyKoans
 - [ ] RubyMonk
 - [ ] Learn Ruby The Hard Way
+- [ ] The Odin Project 
+
+
 
 ##Projects
-- [ ] Personal Octopress blog [www.gxespino.com](http://www.gxespino.com)
-- [ ] Kickstarter clone [www.fundzilla.herokuapp.com](http://fundzilla.herokuapp.com)
+- [ ] Personal Octopress blog 
+- [ ] Kickstarter clone 
 - [ ] Pinteresting
 - [ ] Survey app
-- [ ] E-commerce app [www.bitenitedc.com](http://bitenitedc.com)
+- [ ] E-commerce app 
 - [ ] Polished CRUD app (twitter, blog, pinterest, etc.)
 - [ ] Marketplace app with Stripe Connect 
 - [ ] Time-keeping app
 - [ ] Office work out competition app
 - [ ] Invoice app
 - [ ] Multi-tenant site 
-- [ ] The odin project ()
+ 
 
 APIs
 - [ ] Braintree [www.juicetilt.herokuapp.com](http://juicetilt.herokuapp.com)
@@ -66,6 +77,21 @@ APIs
 - [ ] Github
 - [ ] SendGrid
 
+Community's 
+- [x] meetup/Groningen.rb
+- [x] slack/theodinproject
+- [x] slack/slashrocket
+- [X] ruby-weekly
+- [x] javascript-weekly
+- [x] Github would be awesome........ (duh)
+
+
+##Other
+- [x] Yadr dotfiles [www.github.com/skwp/dotfiles](https://github.com/skwp/dotfiles)
+- [x] Sublime | Atom | vim can't really choose. 
+
+
  
 ## credits 
-this awesome list comes from https://github.com/gxespino 
+The base of this awesome list was provided by  https://github.com/gxespino 
+I added my favourite sources and community's, hope you'll have fun!
