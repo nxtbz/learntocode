@@ -5,28 +5,41 @@ Still, the daily challenge gets me excited and keeps me going!
 
 
 ##Online
-Codeacademy
-- [ ] Ruby
-- [ ] Javascript
-- [ ] JQuery
-- [ ] API's
-- [ ] HTML/CSS
 
-Code School
-- [ ] Ruby Bits
-- [ ] Rails for Zombies
-- [ ] Surviving APIs with Rails
-- [ ] Testing with RSpec
-- [ ] Git
+CS50
+-[ ] CS50
+-[ ] OCCS Github
 
 Stuk
-- [ ] Fundamentals
-- [ ] 2 Sided marketplace 
-- [ ] Social network 
-- [ ] Directory website
-- [ ] Dating app
+- [x] Fundamentals
+- [x] 2 Sided marketplace 
+- [x] Social network 
+- [x] Directory website
+- [x] Dating app
+- [x] Crowdfunding Marketplace
+- [x] Automated Social Posts, buffer clone 
+
+Codeplace
+- [x] Braintree subscriptions
+- [x] CanCan
+- [x] Mailer with Mandrill
+- [x] Voting System
+- [x] Devise User Authentication 
+- [x] Dropbox Authentication 
+- [x] Delayed Jobs
+- [x] Web scraper 
+- [ ] Pusher Notifications  
+
+Codeacademy
+- [x] Ruby
+- [ ] Javascript
+- [ ] JQuery
+- [x] API's
+- [x] HTML/CSS
+
 
 Braintrainers 
+- [ ] Ruby Warrior 
 - [ ] RubyKoans
 - [ ] RubyMonk
 - [ ] Excercism 
@@ -34,10 +47,11 @@ Braintrainers
 - [ ] Codewars
 
 Other
-- [ ] W3 schools
+- [ ] Codermanual 
 - [ ] One Month Rails
 - [ ] Learn Ruby The Hard Way
 - [ ] The Odin Project 
+- [ ] FreeCodeCamp
 - [ ] The power of a unicorn by [@MackenzieChild](@MackenzieChild)
 
 
@@ -48,14 +62,15 @@ Ruby
 - [ ] Eloquent Ruby by Russ Olsen
 - [ ] Practical Object-Oriented Design in Ruby by Sandi Metz
 - [ ] Confident Ruby by Avdi Grimm
+- [ ] Pragmatic Programmer 
 
 Rails
-- [ ] Ruby on Rails Tutorial by Michael Hartl
+- [x] Ruby on Rails Tutorial by Michael Hartl
 - [ ] Learn Ruby on Rails by Daniel Kehoe
 - [ ] The Rails 4 Way by Obie Fernandez
 - [ ] Crafting Rails 4 Applications by Jose Valim
 - [ ] Rails Recipes by Chad Fowler
-- [ ] Agile Web Development with Rails 4 by Ruby, Thomas & Hannson
+- [x] Agile Web Development with Rails 4 by Ruby, Thomas & Hannson
 
 
 ##Other
@@ -66,17 +81,17 @@ Google
 - [ ] Google Shopping 
 
 APIs
-- [ ] Braintree [www.juicetilt.herokuapp.com](http://juicetilt.herokuapp.com)
-- [ ] Stripe [www.bitenitedc.com](http://bitenitedc.com)
+- [x] Braintree [www.juicetilt.herokuapp.com](http://juicetilt.herokuapp.com)
+- [x] Stripe [www.bitenitedc.com](http://bitenitedc.com)
 - [ ] WePAy [www.fundzilla.herokuapp.com](http://fundzilla.herokuapp.com)
-- [ ] Facebook
-- [ ] Twitter
+- [x] Facebook
+- [x] Twitter
 - [ ] Mailgun [www.bitenitedc.com](http://bitenitedc.com)
-- [ ] Mailchimp
+- [x] Mailchimp
 - [ ] Mandrill
-- [ ] oAuth
+- [x] oAuth
 - [ ] Twilio [www.bitenitedc.com](http://bitenitedc.com)
-- [ ] Github
+- [x] Github
 - [ ] SendGrid
 
 Community's 
@@ -98,8 +113,8 @@ Other
 
 ##Projects
 - [ ] Personal Octopress blog 
-- [ ] Kickstarter clone 
-- [ ] Pinteresting
+- [x] Kickstarter clone 
+- [x] Pinteresting
 - [ ] Survey app
 - [ ] E-commerce app 
 - [ ] Polished CRUD app (twitter, blog, pinterest, etc.)
