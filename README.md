@@ -6,9 +6,9 @@ Still, the daily challenge gets me excited and keeps me going!
 
 ##Online
 
-CS50
--[ ] CS50
--[ ] OCCS Github
+Computer Science
+-[ ] CS50, Harvard 
+-[ ] OCCS, Github
 
 Stuk
 - [x] Fundamentals
@@ -51,8 +51,9 @@ Other
 - [ ] One Month Rails
 - [ ] Learn Ruby The Hard Way
 - [ ] The Odin Project 
-- [ ] FreeCodeCamp
-- [ ] The power of a unicorn by [@MackenzieChild](@MackenzieChild)
+- [ ] Free Code Camp
+- [ ] The power of the unicorn by [@MackenzieChild](@MackenzieChild)
+- [ ] Cybrary 
 
 
 ##Books
@@ -74,6 +75,10 @@ Rails
 
 
 ##Other
+Learning
+- [x] Learn how to learn, coursera. 
+- [ ] Learn more, study less. 
+
 Google
 - [x] Google analytics
 - [x] Google App analytics
@@ -108,8 +113,8 @@ Other
 - [ ] BrowserSync development [http://www.browsersync.io](http://www.browsersync.io)
 - [ ] Node.js by [stackskills.com](http://stackskills.com/courses/learn-nodejs-by-building-10-projects/) 
 - [ ] IOS development 
-- [ ] Git tower
-
+- [x] Git tower, rather use git as is. 
+- [ ] Machine Learning
 
 ##Projects
 - [ ] Personal Octopress blog 
@@ -127,4 +132,4 @@ Other
  
 ## credits 
 The base of this awesome list was provided by  https://github.com/gxespino 
-I added my favourite sources and community's, hope you'll have fun!
+I added my favorite sources and community's, hope you'll have fun!
